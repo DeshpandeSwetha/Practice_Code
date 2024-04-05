@@ -51,9 +51,6 @@ public class openChromeBrowser
 		}
 	}
 	
-	
-	
-
 	public static void validateTitle()
 	{
 		

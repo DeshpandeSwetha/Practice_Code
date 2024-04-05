@@ -298,7 +298,4 @@ public class saucedemo
 		currentbuttontext = btnRemove.getText();
 		System.out.println("Current text after clicking on the button is : "+ currentbuttontext);
 	}
-	
-	
-
 }
